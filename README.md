@@ -1,2 +1,2 @@
 # osxCleaner
-batch script tha cleans unnecessary OSX files on Windows
+batch script that cleans unnecessary OSX files on Windows
